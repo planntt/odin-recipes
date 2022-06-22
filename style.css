@@ -1,0 +1,23 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e6e8e8;
+}
+
+body {
+    background-color: #171d1f;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.main-header {
+    width: 80%;
+}
+
+.link {
+    color: #106f73;
+}
